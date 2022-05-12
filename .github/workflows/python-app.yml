@@ -13,4 +13,4 @@ jobs:
 
       - name: Run demo.py 
         run: 
-          python demo.py
+          python main.py
